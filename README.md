@@ -16,3 +16,5 @@ Tech Stack
 * Data Handling: Pandas, DuckDB, Parquet
 * Machine Learning: Random Forest, Gradient Boosting, Logistic Regression
 * Dashboard: Streamlit
+[Stock Prediction Output]
+https://github.com/JebaMisra33-hub/Real-Time-Stock-Predictor/blob/main/output.jpeg?raw=true
